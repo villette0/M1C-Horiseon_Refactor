@@ -51,9 +51,9 @@ The CSS document was refactored to include:
 - CSS
 
 ## Links
-* [Deployed webpage](https://villettec.github.io/Module_1_Challenge-Horiseon_Refactor/)
+* [Deployed webpage](https://villettec.github.io/M1C-Horiseon_Refactor/)
 
-* [Repository](https://github.com/villettec/Module_1_Challenge-Horiseon_Refactor)
+* [Repository](https://github.com/villettec/M1C-Horiseon_Refactor)
 
 ## Screenshot
 ![image](./assets/images/readme-screenshot.png)

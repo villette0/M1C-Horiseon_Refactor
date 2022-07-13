@@ -37,7 +37,7 @@ The HTML document was refactored to include:
 * a proper title and SEO metadata
 * proper HTML semantic labelling
 * alt attributes of images for accessibility
-* woorking links
+* working links
 * comments
 
 The CSS document was refactored to include:

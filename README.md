@@ -51,15 +51,10 @@ The CSS document was refactored to include:
 - CSS
 
 ## Links
-* [Deployed webpage](https://villettec.github.io/M1C-Horiseon_Refactor/)
+* [Deployed webpage](https://villette0.github.io/M1C-Horiseon_Refactor/)
 
-* [Repository](https://github.com/villettec/M1C-Horiseon_Refactor)
+* [Repository](https://github.com/villette0/M1C-Horiseon_Refactor)
 
 ## Screenshot
 ![image](./assets/images/readme-screenshot.png)
-
-## Credit
-Villette Comfort
-
-villette@live.com
 
